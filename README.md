@@ -8,10 +8,11 @@
 pip install pygame
 
 # How to play
-`w = move up`
-`s = move down`
-`a = move left`
-`d = move right`
-`ctrl-left = player 1 shoot`
-`ctrl-right = player 2 shoot`
-
+`````` 
+w = move up
+s = move down
+a = move left
+d = move right
+ctrl-left = player 1 shoot
+ctrl-right = player 2 shoot
+``````
