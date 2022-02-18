@@ -5,7 +5,7 @@
 > Edit by Sarunwit Nontasean
 
 # Requirement
-pip install pygame
+`pip install pygame`
 
 # How to play
 `````` 
